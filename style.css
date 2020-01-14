@@ -3,4 +3,12 @@
     padding: 0;
 }
 
-
+.main-index {
+    background: gainsboro;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.main-index div{
+    flex-basis: 400px;
+}
