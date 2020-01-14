@@ -1,4 +1,0 @@
-text1 + text2
-
-changes in the sub domain branch
-why though

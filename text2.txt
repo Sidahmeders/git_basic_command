@@ -1,3 +1,7 @@
 text2 is coming back to life
 
+<<<<<<< HEAD
 new adding 
+=======
+please mearge if ragnar
+>>>>>>> new-branch
