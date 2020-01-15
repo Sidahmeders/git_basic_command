@@ -12,3 +12,10 @@
 .main-index div{
     flex-basis: 400px;
 }
+
+section {
+    background: gold;
+    font-size: 2.2em;
+}
+
+
